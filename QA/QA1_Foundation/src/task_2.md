@@ -1,0 +1,10 @@
+### Виды тестирования
+
+- [Альфа-тестирование](<https://glossary.istqb.org/ru_RU/term/alfa-testirovanie?term=Тестирование&exact_matches_first=true>) - Тип приемочного тестирования, которое проводится потенциальными пользователями/заказчиками или независимой командой тестирования на стороне разработчиков, но вне разрабатывающей организации.
+- [Бета-тестирование](<https://glossary.istqb.org/ru_RU/term/beta-testirovanie?term=Тестирование&exact_matches_first=true>) - Тип приемочного тестирования, которое проводится третьей стороной, не относящейся к организации-разработчику.
+- [Исчерпывающее тестирование](<https://glossary.istqb.org/ru_RU/term/iscerpyvaiushhee-testirovanie?term=Тестирование&exact_matches_first=true>) - Методика тестирования, в которой набор тестов включает в себя все комбинации входных данных и предусловий.
+- [Компонентное тестирование](<https://glossary.istqb.org/ru_RU/term/komponentnoe-testirovanie?term=Тестирование&exact_matches_first=true>) - Уровень тестирования отдельных аппаратных или программных компонентов системы.
+- [Нагрузочное тестирование](<https://glossary.istqb.org/ru_RU/term/nagruzocnoe-testirovanie?term=Тестирование&exact_matches_first=true>) - Вид тестирования производительности, проводимый с целью оценить поведение компонента или системы при различных нагрузках, обычно между ожидаемыми условиями низкой, типичной и пиковой нагрузки.
+- [Тестирование безопасности](<https://glossary.istqb.org/ru_RU/term/testirovanie-bezopasnosti?term=Тестирование&exact_matches_first=true&page=3>)- Тестирование с целью оценить защищенность программного продукта.
+- [Тестирование на основе данных](<https://glossary.istqb.org/ru_RU/term/testirovanie-na-osnove-dannyx?term=Тестирование&exact_matches_first=true&page=3>)- Методика написания автоматизированных тестовых сценариев, при которой используются файлы данных, содержащие входные тестовые данные и ожидаемые результаты
+- [Тестирование производительности](<https://glossary.istqb.org/ru_RU/search?term=Тестирование&exact_matches_first=true&page=4>) - Тестирование для определения эффективности производительности компонента или системы.
